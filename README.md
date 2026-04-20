@@ -3,7 +3,7 @@
 # ⚡ Shivaansh Pandey
 ### 🚀 Full-Stack Engineer • Open Source Core Contributor • AI/ML Specialist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Accessible+Web+Apps;Wagtail+Core+Contributor;GSoC+'26+Aspirant;Python+%26+React+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Accessible+Web+Apps;Wagtail+Core+Contributor;GSoC+'26+Aspirant;Python+%26+React+Specialist" alt="Typing SVG" />
 
 ![Main Repo](https://img.shields.io/badge/Wagtail_CMS-Core_Contributor-43B02A?style=flat-square&logo=wagtail)
 ![Education](https://img.shields.io/badge/B.Tech-AI_%2F_ML-blue?style=flat-square)
