@@ -1,83 +1,241 @@
-# Hi, I'm Shivaansh Pandey 👋
-
-B.Tech AI/ML student (Batch 2029) · Full-stack engineer · Building things people actually use
-
-[LinkedIn](https://www.linkedin.com/in/shivaansh-pandey-7099b7305/) · [X / Twitter](https://x.com/ShivaanshP0610) · Bengaluru, India
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=200&section=header&text=Shivaansh%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=Building+Accessible+Web+Apps;Wagtail+CMS+Core+Contributor;GSoC+%2726+Aspirant+%7C+B.Tech+AI%2FML;Python+%26+React+Specialist;Zonal+Silver+Medalist+100m+Sprint" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaansh-pandey-7099b7305/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShivaanshP0610)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivaansh0610-LUFFY)
+[![Location](https://img.shields.io/badge/_Bengaluru,_India-FF4B4B?style=for-the-badge)](https://github.com/shivaansh0610-LUFFY)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shivaansh0610-LUFFY&color=00F7F7&style=flat-square&label=PROFILE+VIEWS)
+![Wagtail](https://img.shields.io/badge/Wagtail_CMS-Core_Contributor-43B02A?style=flat-square&logo=wagtail)
+![Education](https://img.shields.io/badge/B.Tech-AI_%2F_ML-6C63FF?style=flat-square)
+
 </div>
 
----
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+## ` $ whoami`
 
-### About
+```python
+class Shivaansh:
+    name = "Shivaansh Pandey"
+    alias = "shivaansh0610-LUFFY"
+    role = "Full-Stack Engineer & OSS Contributor"
+    edu = "B.Tech — Artificial Intelligence & ML"
 
-I ship products, not portfolio filler. My main project runs my mom's rental business today — 25 real tenants, real payments, zero spreadsheets. I'm currently trying to break into RISC-V's open-source ecosystem through LFX Mentorship, and I compete as a zonal-level 100m sprinter on the side.
+    languages = ["Python", "JavaScript", "Go", "Java"]
+    stack = ["React", "Django", "PostgreSQL", "Tailwind"]
 
-### Currently
+    current_mission = [
+        "🌿 Wagtail CMS — Core Contributor",
+        "🎯 Targeting GSoC 2027",
+        "🧠 DevInsight V2 — Live @ vercel (AI forensics platform)",
+    ]
 
-Working on **RISC-V UnifiedDB** as part of an LFX Mentorship Fall 2026 application — AI-assisted extraction of architectural parameters from RISC-V specs. I audited the live `riscv-unified-db` repo, found that six trigger sub-format definitions referenced by `tdata1`'s TYPE field were missing entirely, and built a proposal around fixing that. Now working GitHub issues **#214 (Sdtrig)** and **#215 (Sdext)**.
+    fun_fact = "Zonal Silver Medalist — 100m Sprint 🏃"
+
+    def get_status(self):
+        return "Building the future, one PR at a time. 🔥"
+
+Luffy = Shivaansh()
+print(Luffy.get_status())
+```
 
 <br clear="right"/>
 
 ---
 
-## Projects
+## 🛠 Tech Arsenal
 
-**[Kiraya Bandhu](https://kiraya-bandhu.vercel.app)** — Flagship project
-Rent-tracking PWA built for my mom's ~25 tenants, who were previously managed through a logbook and WhatsApp screenshots. In daily production use right now.
-`React` `Vite` `Tailwind`
+<div align="center">
 
-**[DevInsight AI](https://dev-insight-v2.vercel.app)**
-Scores GitHub profiles on real engineering signal instead of commit counts. [Repo →](https://github.com/shivaansh0610-LUFFY/DevInsight-v2)
-`MERN`
+### 💻 Languages
 
-**[PitchForge](https://pitch-forge-ecru.vercel.app)**
-Full MERN SPA with JWT auth and role-based access control. [Repo →](https://github.com/shivaansh0610-LUFFY/PitchForge)
-`MERN`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**[Alpha AI](https://shivaansh-btc-predictor.streamlit.app)**
-Bitcoin price forecasting model, deployed as an interactive app.
-`Python` `ML` `Streamlit`
+### 🚀 Frameworks & Libraries
 
-**[Sudoku Solver](https://sudoku-solver-0610.streamlit.app)**
-Solves a puzzle from a photo — OpenCV digit extraction, CNN recognition, backtracking solver.
-`OpenCV` `CNN`
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-43B02A?style=for-the-badge&logo=wagtail&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-**[Urban Taxi Demand Forecasting](https://urban-taxi-demand-pattern-nn7zolfvs.vercel.app)**
-Neural net model predicting urban taxi demand patterns.
-`Python` `ML`
+### 🗄️ Databases & Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## Open Source
+## 🏆 Featured Projects
 
-| Project | Involvement |
+<div align="center">
+
+<!-- ⭐ FLAGSHIP PROJECT -->
+
+### 🧠 Flagship — DevInsight V2: The Intelligence Matrix
+
+<a href="https://github.com/shivaansh0610-LUFFY/DevInsight-v2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivaansh0610-LUFFY&repo=DevInsight-v2&theme=tokyonight&hide_border=true&title_color=FFD700&icon_color=FFD700" />
+</a>
+
+> 🧠 **An AI-powered engineering forensics platform** that rips past résumé fluff to expose raw developer horsepower — built with **Next.js 14**, **Gemini 2.5 Flash**, **GitHub GraphQL API**, **Framer Motion** & custom Glassmorphism UI.
+
+| Engine | What It Does |
 |---|---|
-| Plone / Volto | Active member — built a GitHub Actions workflow for Storybook previews |
-| Wagtail CMS | Contributed as part of GSoC prep |
-| RISC-V UnifiedDB | Sdtrig / Sdext architectural parameter extraction (in progress) |
+| 🤖 Authenticity Engine | Gemini 2.5 Flash detects real engineering vs AI-patterned commits |
+| ⚡ Engineering Momentum | Weekly velocity tracker revealing "flow" state productivity |
+| 📅 Consistency Engine | Real-time 365-day contribution topology via GitHub GraphQL v4 |
+| 🎯 Technical Depth | Multi-axis Radar Chart — language spread & systems architecture |
+| 📈 Growth Trajectory | Stack expansion & domain maturity bento tracker |
+| 🎨 Stack Distribution | Glassmorphism-weighted tech core visualization |
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-dev--insight--v2.vercel.app-FFD700?style=for-the-badge)](https://dev-insight-v2.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/shivaansh0610-LUFFY/DevInsight-v2)
+
+<br/>
+
+<a href="https://github.com/shivaansh0610-LUFFY/Urban-Taxi-Demand-Pattern">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivaansh0610-LUFFY&repo=Urban-Taxi-Demand-Pattern&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+<a href="https://github.com/shivaansh0610-LUFFY/PitchForge">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivaansh0610-LUFFY&repo=PitchForge&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+<a href="https://github.com/shivaansh0610-LUFFY/cold-email-ai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivaansh0610-LUFFY&repo=cold-email-ai&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+<a href="https://github.com/shivaansh0610-LUFFY/Quiz-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shivaansh0610-LUFFY&repo=Quiz-App&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+</div>
 
 ---
 
-## Stack
+## 📊 GitHub Stats
 
-**Languages:** Python, JavaScript
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express
-**Data/ML:** OpenCV, CNNs, Streamlit
-**Infra:** MongoDB, Redis, Docker, Git
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=shivaansh0610-LUFFY&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" height="180" />
 
-## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaansh0610-LUFFY&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7F7&text_color=FFFFFF&bg_color=0D1117&langs_count=8" height="180" />
 
-![Shivaansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivaansh0610-LUFFY&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<br/>
 
-*(If the stats card above doesn't load, it's a github-readme-stats outage — [check status here](https://github.com/anuraghazra/github-readme-stats/issues).)*
+<img src="https://streak-stats.demolab.com?user=shivaansh0610-LUFFY&theme=tokyonight&hide_border=true&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7&background=0D1117" height="180" />
+
+</div>
 
 ---
 
-Open to internships and collaborations — feel free to reach out.
+## 🌿 Open Source Journey
+
+<div align="center">
+
+| 🏢 Organization | 🛠 Role | 📌 Status |
+|---|---|---|
+| **Wagtail CMS,Volto,Podman,RISCV** | Core Contributor | 🟢 Active |
+| **Targeting GSoC 2027** | Aspirant | 🎯 Targeting | 
+
+</div>
+
+> _"The best way to learn is to contribute."_ — Every OSS contributor ever
+
+---
+
+## 🎯 2026 Roadmap
+
+```text
+[████████░░░░░░░░░░░░] GSoC 2027 Application
+[██████████░░░░░░░░░░] Open Source Contributions
+[████████████████░░░░] DevInsight V2.0 — Live 🟢 → Next: V2.1 features
+[██████████░░░░░░░░░░] System Design Mastery
+[████████████████░░░░] Never stop shipping 🚀
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivaansh0610-LUFFY&bg_color=0D1117&color=00F7F7&line=0066FF&point=00F7F7&area=true&area_color=0066FF&hide_border=true)](https://github.com/shivaansh0610-LUFFY)
+
+</div>
+
+---
+
+## 🐍 Snake — Watch My Commits Get Eaten!
+
+> **One-time setup:** Create `.github/workflows/snake.yml` in your profile repo with the content below, then the snake auto-generates every 24h and shows up here.
+
+<details>
+
+<summary>📋 Click to copy the GitHub Actions workflow</summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: shivaansh0610-LUFFY
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then replace this section with:
+
+`![snake](https://github.com/shivaansh0610-LUFFY/shivaansh0610-Luffy/blob/output/github-contribution-grid-snake-dark.svg)`
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7F7&height=120&section=footer&text=Let's+Build+Something+Epic+Together!&fontSize=28&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+**⭐ Star my repos if you find them useful! | Open to collaborations & GSoC mentors**
+
+</div>
