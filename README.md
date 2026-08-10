@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=200&section=header&text=Shivaansh%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20AI%2FML&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=Building+Accessible+Web+Apps;Wagtail+CMS+Core+Contributor;GSoC+%2726+Aspirant+%7C+B.Tech+AI%2FML;Python+%26+React+Specialist;Zonal+Silver+Medalist+100m+Sprint" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&width=650&height=50&lines=Building+Accessible+Web+Apps;Open+Source+Contributor;GSoC+%2727+Aspirant+%7C+B.Tech+AI%2FML;Python+%26+React+Specialist;Zonal+Silver+Medalist+100m+Sprint" alt="Typing SVG" />
 
 <br/>
 
