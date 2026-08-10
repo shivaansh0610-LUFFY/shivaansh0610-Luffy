@@ -1,10 +1,16 @@
-# Hi, I'm Shivaansh Pandey
+# Hi, I'm Shivaansh Pandey 👋
 
 B.Tech AI/ML student (Batch 2029) · Full-stack engineer · Building things people actually use
 
 [LinkedIn](https://www.linkedin.com/in/shivaansh-pandey-7099b7305/) · [X / Twitter](https://x.com/ShivaanshP0610) · Bengaluru, India
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</div>
+
 ---
+
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 ### About
 
@@ -13,6 +19,8 @@ I ship products, not portfolio filler. My main project runs my mom's rental busi
 ### Currently
 
 Working on **RISC-V UnifiedDB** as part of an LFX Mentorship Fall 2026 application — AI-assisted extraction of architectural parameters from RISC-V specs. I audited the live `riscv-unified-db` repo, found that six trigger sub-format definitions referenced by `tdata1`'s TYPE field were missing entirely, and built a proposal around fixing that. Now working GitHub issues **#214 (Sdtrig)** and **#215 (Sdext)**.
+
+<br clear="right"/>
 
 ---
 
